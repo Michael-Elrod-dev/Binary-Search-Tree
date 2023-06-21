@@ -1,10 +1,3 @@
-/*
- * Name: Michael Elrod
- * Date Submitted: 10/26/22
- * Lab Section: 002
- * Assignment Name: Lab 7 - Binary Search Tree
- */
-
 #include <iostream>
 #include <vector>
 #include <cstdlib>
